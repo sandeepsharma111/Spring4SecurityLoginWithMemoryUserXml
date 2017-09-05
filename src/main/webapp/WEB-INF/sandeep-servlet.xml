@@ -12,7 +12,7 @@
         http://www.springframework.org/schema/context/spring-context.xsd">
 
     <mvc:annotation-driven />
-<import resource="training-security.xml" />
+<import resource="sandeep-security.xml" />
 
     <context:component-scan base-package="com.sandy.mvc" /> 
 
